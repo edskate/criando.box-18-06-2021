@@ -1,0 +1,43 @@
+body {
+    width: 95%;
+    max-width: 800px;
+    margin: 610px;
+    background: url(FLOKINHO\ 003.png);
+    font-family: sans-serif;
+    line-height: 1.5;
+
+}
+
+img {
+    box-shadow: 2px 3px 4px;
+}
+
+.logo,
+.ED_cat,
+.headline {
+    box-shadow: 0 0 1em;
+    width: 250px;
+    background: slategray;
+    text-align: center;
+
+}
+
+main {
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.consert {
+    text-align-last: center;
+    margin: 30px 0;
+    width: 100%;
+}
+
+.consert table {
+    background: brown;
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto;
+
+}
